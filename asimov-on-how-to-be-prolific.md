@@ -2,7 +2,6 @@
 layout: default
 title: Asimov on How to Be Prolific
 permalink: /asimov-on-how-to-be-prolific/
-redirect_from: /2016/10/26/asimov-on-how-to-be-prolific/ 
 ---
 Isaac Asimov was one of the most prolific writers who ever lived. Publishing over 500 books, and approximately 90,000 letters over the course of his life.
 
